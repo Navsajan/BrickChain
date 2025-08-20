@@ -1,11 +1,7 @@
 import { useState } from "react";
 import { connectWallet } from "../keplr";
 import { motion } from "framer-motion";
-
-const dummyProperties = [
-  { id: 1, name: "Beachfront Villa", price: "1000000", image: "/images/villa.jpg" },
-  { id: 2, name: "Urban Apartment", price: "500000", image: "/images/apartment.jpg" },
-];
+import properties from "../data/properties.json";
 
 export default function Properties() {
   const [wallet, setWallet] = useState(null);
@@ -66,7 +62,7 @@ export default function Properties() {
       <h2 className="text-3xl font-bold text-white mb-6">Available Properties</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {dummyProperties.map((prop, index) => (
+        {properties.map((prop, index) => (
           <motion.div
             key={prop.id}
             className="bg-gray-800 rounded-lg shadow-lg overflow-hidden transform transition"
