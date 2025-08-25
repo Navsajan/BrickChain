@@ -16,10 +16,10 @@ Users can explore properties as NFTs, see **valuation and trust scores**, and bu
 ![Home Page](screenshots/homepage.png)
 
 ### Property listing
-![Property](screenshots/homepage.png)
+![Property](screenshots/property-details.png)
 
 ### Purchase Fractional Property
-![Buy Fraction](screenshots/property-details.png)
+![Buy Fraction](screenshots/buying.png)
 ## Setup
 
 1. Clone the repository:
@@ -41,7 +41,7 @@ Explain **how users interact with the app**.
 3. View valuation and trust/fraud scores for each property.
 4. Click **Buy Fraction** to purchase fractional ownership using ADO tokens.
 5. Transactions will be processed on the Andromeda testnet.
-```
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
 
