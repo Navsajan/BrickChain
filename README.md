@@ -15,9 +15,6 @@ Users can explore properties as NFTs, see **valuation and trust scores**, and bu
 ### Home Page
 ![Home Page](screenshots/homepage.png)
 
-### Property Details with Valuation & Fraud Score
-![Property Details](screenshots/property-details.png)
-
 ### Purchase Fractional Property
 ![Buy Fraction](screenshots/buying.png)
 ## Setup
