@@ -15,8 +15,11 @@ Users can explore properties as NFTs, see **valuation and trust scores**, and bu
 ### Home Page
 ![Home Page](screenshots/homepage.png)
 
+### Property listing
+![Property](screenshots/homepage.png)
+
 ### Purchase Fractional Property
-![Buy Fraction](screenshots/buying.png)
+![Buy Fraction](screenshots/property-details.png)
 ## Setup
 
 1. Clone the repository:
