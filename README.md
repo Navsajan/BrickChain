@@ -24,7 +24,7 @@ Users can explore properties as NFTs, see **valuation and trust scores**, and bu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/brickchain.git
+   git clone https://github.com/Navsajan/BrickChain.git
    cd brickchain
    npm install
    npm run dev
