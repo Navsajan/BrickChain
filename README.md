@@ -38,7 +38,7 @@ Explain **how users interact with the app**.
 3. View valuation and trust/fraud scores for each property.
 4. Click **Buy Fraction** to purchase fractional ownership using ADO tokens.
 5. Transactions will be processed on the Andromeda testnet.
-
+```
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
 
