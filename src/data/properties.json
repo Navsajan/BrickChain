@@ -3,12 +3,12 @@
     "id": 1, 
     "name": "Beachfront Villa", 
     "price": 1000000, 
-    "image": "/images/villa.jpg" 
+    "image": "/images/b1.jpg" 
   },
   { 
     "id": 2, 
     "name": "Urban Apartment", 
     "price": 500000, 
-    "image": "/images/apartment.jpg" 
+    "image": "/images/b2.jpg" 
   }
 ]
